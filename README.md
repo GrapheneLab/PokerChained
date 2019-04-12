@@ -5,7 +5,7 @@
 
 ## English
 
-The first truly decentralized multiplayer PVP Texas Hold’em platform based on EOSIO (which is currently active on EOS Jungle 2.0 testnet).
+The first truly decentralized multiplayer PVP Texas Hold’em platform based on EOSIO.
 
 Game variant is classic unlimited Texas Hold’em, you can check the rules at the following link:
 
@@ -24,7 +24,7 @@ Please always make sure that you are using the latest client version for your OS
 
 ## Русский
 
-Первая децентрализованная платформа для мультиплеерной PVP игры в Техасский холдем на базе EOSIO (на данный момент запущен на тестнете EOS Jungle 2.0).
+Первая децентрализованная платформа для мультиплеерной PVP игры в Техасский холдем на базе EOSIO.
 
 Игра представляет собой классический безлимитный техасский холдем, ознакомиться с его правилами можно по ссылке:
 
